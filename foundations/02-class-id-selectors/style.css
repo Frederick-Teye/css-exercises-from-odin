@@ -1,10 +1,10 @@
-p {
-    background-color: pink;
+.three-common-elements {
+    background-color: #ffc0cb;
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
 .second {
-    color: blue;
+    color: #0000ff;
     font-size: 36px;
 }
 
@@ -12,8 +12,7 @@ p {
     font-size: 24px;
 }
 
-.forth {
-    background-color: lightgreen;
-    font-size: 24px;
+#forth {
+    background-color: #90ee90;
     font-weight: bold;
 }
